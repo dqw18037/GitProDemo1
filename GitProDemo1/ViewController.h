@@ -11,5 +11,7 @@
 @interface ViewController : UIViewController
 
 
+@property (readwrite, nonatomic, strong) ubutt *buton;
+
 @end
 
